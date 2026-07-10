@@ -12,7 +12,7 @@ Get your Groq API key at https://console.groq.com/keys
 
 # How to run
 First clone this repository 
-`git clone https://github.com/ashwin123-git/Groq-Chatbot.git`
+`git clone https://github.com/builtbyashwin/Groq-Chatbot.git`
 
 Then make a virtual environment in:
 
